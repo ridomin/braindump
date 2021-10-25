@@ -18,3 +18,7 @@
 - Refactor target sample
 - Explore Source Generators
 - PoC with Mustache
+
+## web clients
+
+- Sas Auth https://github.com/ridomin/iothub-auth
