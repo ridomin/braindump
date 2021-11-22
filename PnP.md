@@ -2,6 +2,14 @@
 
 [GitHub - ridomin/Rido.IoTHubClient: Minimalistic device client to interact with Azure IoT Hub](https://github.com/ridomin/Rido.IoTHubClient)
 
+## DTDL Broker
+
+- mosquitto with custom Topics 
+- - Device and ControlApp
+- mosquitto with hub reserved topics
+- Twin Service for mosquitto 
+
+
 ## BYO MQTT
 
 - Refactor Interface to hide MqttNet types
